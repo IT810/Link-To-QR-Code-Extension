@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "URL to QR Code",
+  "version": "1.0",
+  "description": "Converts a URL to a QR code",
+  "icons": {
+    "32": "qrcode-icon.png",
+    "48": "qrcode-icon.png",
+    "128": "qrcode-icon.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["tabs"]
+}
