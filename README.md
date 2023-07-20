@@ -6,6 +6,8 @@ Converts a URL to a QR code.
 
 ![image](https://github.com/IT810/Link-To-QR-Code-Extension/assets/55732539/4fada74e-06e5-43de-b086-e0a4bf0af1cb)
 
+![image](https://github.com/IT810/Link-To-QR-Code-Extension/assets/55732539/5b08f33c-5178-4d85-b933-2a2abc308bb4)
+
 ## Description
 
 The URL to QR Code extension allows you to quickly generate a QR code for any URL. Simply enter the URL in the extension popup, click the "Convert" button, and a QR code will be generated instantly. You can then save or share the QR code as needed.
